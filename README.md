@@ -11,5 +11,7 @@ Hepatotoxicity is a major reason for the withdrawal or discontinuation of drugs 
 **Code**
 
 1) Input data : avg_variables_346_inst_table.csv
+
 2) RF model building, Y-randomization, McNemar test : RF_model_script.r
+
 3) Applicability domain :  AD_KNN_IS_HCI_model.ipynb, AD_KNN_IS_Hybrid.ipynb, AD_KNN_IS_chemical_model.ipynb
